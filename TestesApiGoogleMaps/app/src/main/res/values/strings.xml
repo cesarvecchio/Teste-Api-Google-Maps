@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Testes Api Google Maps</string>
+    <string name="title_activity_maps">Map</string>
+
+
+    <string name="api_key">AIzaSyCDCZ49JfmzTYDPm6F5oGNeOAFMlMchch0</string>
+    <string name="title_activity_maps2">Map</string>
+
+</resources>
